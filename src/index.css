@@ -103,4 +103,8 @@
   .social {
     flex-direction: column;
   }
+  
+  .ind {
+    gap: 16px;
+  }
 }

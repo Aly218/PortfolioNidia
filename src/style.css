@@ -135,9 +135,8 @@ button:hover {
   nav {
     flex-direction: column;
   }
-
   section {
-    padding: 0 50px;
+    padding: 0 16px;
   }
 }
 
